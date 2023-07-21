@@ -1,0 +1,20 @@
+
+.cardProduto {
+    width: 250px;
+    height: 420px;
+    margin-top: 15px;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.cardProduto h4 {
+    font-size: 13px;
+}
+
+.cardProduto h6{
+    margin-top: 5px;
+}
+
+.cardProduto h4, h5, h6 {
+    margin: 0;
+}
